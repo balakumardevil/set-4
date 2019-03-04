@@ -1,2 +1,2 @@
 string=str(input())
-print(string.count(' '))
+print(string.count(' ')+1)
