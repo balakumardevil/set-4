@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+a=str(input())
+b=str(input())
 temp=a
 a=b
 b=temp
