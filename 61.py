@@ -1,2 +1,2 @@
-a,b=input().split()
-print(a[:int(b)])
+n,m=input().split()
+print(n[:int(m)])
