@@ -1,5 +1,5 @@
-p1,p2=input().split()
-p1=int(p1)
+p,p2=input().split()
+p=int(p)
 p2=int(p2)
 c=0
 temp=list(map(int,input().split()))
