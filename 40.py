@@ -1,8 +1,8 @@
-m = int(input())
-a = 0
-b = 1
-for i in range(0,m):
+a = int(input())
+b = 0
+c = 1
+for i in range(0,a):
   print(b,end = " ")
-  c = a + b
-  a = b
+  d = b + c
   b = c
+  c = d
