@@ -1,2 +1,3 @@
-n=input()
+ww=input()
+n=ww
 print(n)
