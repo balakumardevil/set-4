@@ -1,9 +1,9 @@
 n=input()
-x=0
+y=0
 for i in n:
     if ((i=='0') or (i=='1')):
-        x+=1
-if(x==len(n)):
+        y+=1
+if(y==len(n)):
     print("yes")
 else:
     print("no")
