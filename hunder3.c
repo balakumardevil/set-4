@@ -14,10 +14,16 @@ for(i=1;i<=n;i++)
 {
 for(j=i;j<=n;j++)
 {
+  int k=0;
 if(i==a[j])
 {
 printf("%d",i);
+  k++;
 }
 }}
+if(k>0)
+{
+  printf("%d",-1);
+}
 getch();
 }
